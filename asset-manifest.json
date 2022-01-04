@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/periciustask/static/css/main.93ff472e.css",
+    "main.js": "/periciustask/static/js/main.a799165a.js",
+    "static/js/787.0a6351cc.chunk.js": "/periciustask/static/js/787.0a6351cc.chunk.js",
+    "index.html": "/periciustask/index.html",
+    "main.93ff472e.css.map": "/periciustask/static/css/main.93ff472e.css.map",
+    "main.a799165a.js.map": "/periciustask/static/js/main.a799165a.js.map",
+    "787.0a6351cc.chunk.js.map": "/periciustask/static/js/787.0a6351cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93ff472e.css",
+    "static/js/main.a799165a.js"
+  ]
+}
